@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @00000vish
-- 👀 I’m interested in full stack development.
-- 🌱 I’m currently learning Next.js
-- 💞️ I’m looking to collaborate on anything.
-- 📫 How to reach me tbd.
+# Hello, I am vish 👋
+
+![Alt Text](https://media0.giphy.com/media/SwImQhtiNA7io/200w.gif)
+
+(Beware of the dog)
 
 <!---
 00000vish/00000vish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
