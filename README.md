@@ -7,7 +7,7 @@
 ## Links 
 
 Dockerhub - [hub.docker.com/u/00000vish](https://hub.docker.com/u/00000vish)   
-dotfiles  - [github.com/00000vish/gtile](https://github.com/00000vish/gtile)    
+dotfiles  - [github.com/00000vish/dotfiles](https://github.com/00000vish/dotfiles)    
 
 
 ## Latest Projects
