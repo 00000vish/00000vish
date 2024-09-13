@@ -1,6 +1,6 @@
 ![Alt Text](https://media0.giphy.com/media/SwImQhtiNA7io/200w.gif)
 
-# HELLO 👋
+# Hello 👋
 
 こんにちは
 
