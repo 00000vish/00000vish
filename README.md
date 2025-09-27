@@ -1,8 +1,10 @@
+> [!WARNING]  
+> Active development switched to Gitlab.
+
+
+
 ![Alt Text](https://media0.giphy.com/media/SwImQhtiNA7io/200w.gif)
 
-# Hello 👋
-
-こんにちは
 
 ## Links 
 
